@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -71,3 +72,10 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+=======
+# ReflexCube-v2
+#
+#Building and deploying AI models today requires coding expertise and complex tools, blocking non-technical innovators.
+AI development is slow, complex, and limited to experts—startups and individuals lack accessible tools.
+Non-technical users struggle to create, train, and deploy AI models without coding or infrastructure.
+>>>>>>> 99ca750366883f47329c99e005b26bcebba4580f
